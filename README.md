@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <centre>
+ 
+ 
+ 
 <a href="mailto:amalshibusocial@gmail.com"><img alt="Mail" title="Mail" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/gmail.svg">
 <a href="tel:9539774533"><img alt="phone" title="Call" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/phone.png"> 
 <a href="https://www.facebook.com/amalshibu.kuriakose"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/facebook.svg"></a>
