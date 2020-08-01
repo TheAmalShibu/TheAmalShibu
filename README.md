@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<centre>
 <a href="mailto:amalshibusocial@gmail.com"><img alt="Mail" title="Mail" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/gmail.svg">
 <a href="tel:9539774533"><img alt="phone" title="Call" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/phone.png"> 
 <a href="https://www.facebook.com/amalshibu.kuriakose"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/facebook.svg"></a>
@@ -12,7 +13,8 @@
 <a href="https://github.com/TheAmalShibu2"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/github-octocat.svg"></a>
 <a href="https://stackoverflow.com/users/13870702/amal-shibu"><img alt="Stackoverflow" title="Stackoverflow" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/stackoverflow.svg"></a>
 <a href="https://stackexchange.com/users/19003621/amal-shibu"><img alt="Stackexchange" title="Stackexchange" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/stackexchange.svg"></a>
-                    
+ </centre>
+ 
 <!--
 **TheAmalShibu2/TheAmalShibu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
