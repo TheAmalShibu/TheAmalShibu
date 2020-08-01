@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://www.facebook.com/amalshibu.kuriakose"><img alt="Facebook" title="Facebook" height="32" width="32" src="icons/facebook.svg"></a>
+<a href="https://www.facebook.com/amalshibu.kuriakose"><img alt="Facebook" title="Facebook" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/facebook.svg"></a>
 <a href="https://wa.me/message/K57DCQU5WVN6G1"><img alt="WhatsApp" title="WhatsApp" height="32" width="32" src="icons/whatsapp.svg"></a>
 <a href="https://instagram.com/theamalshibu"><img alt="Instagram" title="Instagram" height="32" width="32" src="icons/instagram.svg"></a>
 <a href="https://www.linkedin.com/in/amalshibu"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="icons/linkedin.svg"></a>
