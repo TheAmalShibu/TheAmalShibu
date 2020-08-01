@@ -7,6 +7,7 @@
 <a href="https://instagram.com/theamalshibu"><img alt="Instagram" title="Instagram" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/instagram.svg"></a>
 <a href="https://www.linkedin.com/in/amalshibu"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/linkedin.svg"></a>
 <a href="http://amalshibu.me"><img alt="Link" title="AmalShibu.me" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/link.png"></a>
+  
 <a href="https://github.com/TheAmalShibu2"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/github.svg"></a>
 <a href="https://github.com/TheAmalShibu2"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/github-octocat.svg"></a>
 <a href="https://stackoverflow.com/users/13870702/amal-shibu"><img alt="Stackoverflow" title="Stackoverflow" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/stackoverflow.svg"></a>
