@@ -2,7 +2,7 @@
 <img alt="Header Image" title="Header Image" height="300" width="300" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/Asset/IMG_20200730_205138-01-02.jpeg">
  <!-- leaving an optional sapce to make things look aesthetic. -->
  
- - 🌱 Currently learning : <a href="https://flutter.dev/">Flutter</a>
+ - 🌱 Currently learning : <a href="https://flutter.dev/">Flutter</a>, <a href="https://kotlinlang.org/">Kotlin</a>
  
  Get in Touch: 
  
