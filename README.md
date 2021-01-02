@@ -8,9 +8,7 @@
 <a href="https://www.linkedin.com/in/amalshibu"><img alt="Linkedin" title="Linkedin" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/linkedin.svg"></a>
  <!-- just discovered only 4 icons can be accomodated in a single line, leaving an optional sapce to make things look aesthetic.-->
 <a href="https://github.com/TheAmalShibu2"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/github.svg"></a>
-<a href="https://github.com/TheAmalShibu2"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/github-octocat.svg"></a>
-<a href="https://stackoverflow.com/users/13870702/amal-shibu"><img alt="Stackoverflow" title="Stackoverflow" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/stackoverflow.svg"></a>
-<a href="https://stackexchange.com/users/19003621/amal-shibu"><img alt="Stackexchange" title="Stackexchange" height="32" width="32" src="https://github.com/TheAmalShibu2/TheAmalShibu2/blob/master/icons/stackexchange.svg"></a>
+
 <!--
 **TheAmalShibu2/TheAmalShibu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
