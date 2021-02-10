@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 ![githubprofilereadmeheader](https://github.com/TheAmalShibu/TheAmalShibu/blob/master/Assets/githubprofilereadmeheader.gif)
 
